@@ -1,0 +1,200 @@
+[{
+  "_id": {
+    "$oid": "66cec89b40b217910a69f346"
+  },
+  "title": "Title",
+  "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed.",
+  "device": "Vision Pro",
+  "videoMode": "MR",
+  "video": "uploads/videos/video-1724827796241-242017590.mp4",
+  "videoFilePath": "uploads/videos/video-1724827796241-242017590.mp4.enc",
+  "videoOriginalName": "ARRTrailer.mp4",
+  "secretKey": "6e6afde88587d5972eb5059f1046641ed95308ca2b39876d841ba1e05718bb8d",
+  "iv": "220e75329ca9d5d2165586555f6ed946",
+  "thumbnail": "/uploads/thumbnails/thumbnail-1729441134774-201089965.png",
+  "uploadDate": {
+    "$date": "2024-08-28T06:50:03.631Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66cec93240b217910a69f34d"
+  },
+  "title": "Title",
+  "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed.",
+  "device": "Vision Pro",
+  "videoMode": "360",
+  "video": "uploads/videos/video-1724827943591-365591524.mov",
+  "videoFilePath": "uploads/videos/video-1724827943591-365591524.mov.enc",
+  "videoOriginalName": "LeMusk.mov",
+  "secretKey": "67bbc46a318f7b00cc8bba9eacd9c390694192f58423328c3c1131de15e79706",
+  "iv": "a793cb5cdd22bb60a82f748d32997fe4",
+  "thumbnail": "/uploads/thumbnails/thumbnail-1729441297947-532010180.png",
+  "uploadDate": {
+    "$date": "2024-08-28T06:52:34.194Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66cec97140b217910a69f354"
+  },
+  "title": "Title",
+  "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed.",
+  "device": "Vision Pro",
+  "videoMode": "180",
+  "video": "uploads/videos/video-1724828015021-529067767.mov",
+  "videoFilePath": "uploads/videos/video-1724828015021-529067767.mov.enc",
+  "videoOriginalName": "MusicSpatial.mov",
+  "secretKey": "7a6d10efba29f0a495ff72b2cee48f33c595e7699bf73d1ac5b346d119baaccf",
+  "iv": "41fd01f52c0b8a73c3dc448e4e04f1a7",
+  "thumbnail": "/uploads/thumbnails/thumbnail-1729441637728-128406137.png",
+  "uploadDate": {
+    "$date": "2024-08-28T06:53:37.405Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66dbb046936b585e2c1e0bb5"
+  },
+  "title": "Title",
+  "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed.",
+  "device": "Vision Pro",
+  "videoMode": "Theatre",
+  "video": "uploads/videos/video-1725673535774-799945993.mp4",
+  "videoFilePath": "uploads/videos/video-1725673535774-799945993.mp4.enc",
+  "videoOriginalName": "Theater.mp4",
+  "secretKey": "26c47b8780ca03efd4cd9e9749f7355da6f04e78b42ce0ba1987c02757c6053b",
+  "iv": "e7d5d6c286c1cd6551b6ae700bc3388a",
+  "thumbnail": "/uploads/thumbnails/thumbnail-1729444161807-600492393.png",
+  "uploadDate": {
+    "$date": "2024-09-07T01:45:42.849Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68341e466db0e7207eccb82e"
+  },
+  "title": "Test New Update",
+  "description": "tsadfs",
+  "message": "ok",
+  "messageDescription": "adsf",
+  "device": "Quest",
+  "videoMode": "360",
+  "videoFilePath": "uploads/videos/video-1724829240627-276148675.mp4.enc",
+  "videoOriginalName": "dhoni_music.mp4",
+  "videoFileSize": "2048 MB",
+  "trailer": "uploads/trailers/trailer-1748246086725-602631198.mp4",
+  "trailerOriginalName": "dhoni.mp4",
+  "isPremium": "false",
+  "secretKey": "4cbc50fc582b138ef8a76b26121e6297de1b40f6948bc176e22989abf1bb49a8",
+  "iv": "2dc38a21d067d8f657c6759fa3e54e16",
+  "thumbnail": "/uploads/thumbnails/thumbnail-1729441297947-532010180.png",
+  "uploadDate": {
+    "$date": "2025-05-26T07:54:47.001Z"
+  },
+  "__v": 0,
+  "premiumAmount": null
+},
+{
+  "_id": {
+    "$oid": "683e9ecf2daa8d74eb36ac44"
+  },
+  "title": "Test New Update",
+  "description": "tsadfs",
+  "message": "ok",
+  "messageDescription": "adsf",
+  "device": "Vision Pro",
+  "videoMode": "360",
+  "videoFilePath": "uploads/videos/video-1724827943591-365591524.mov.enc",
+  "videoOriginalName": "dhoni_music.mp4",
+  "videoFileSize": "2048 MB",
+  "trailer": "uploads/trailers/trailer-1748246086725-602631198.mp4",
+  "trailerOriginalName": "dhoni.mp4",
+  "isPremium": "false",
+  "secretKey": "67bbc46a318f7b00cc8bba9eacd9c390694192f58423328c3c1131de15e79706",
+  "iv": "a793cb5cdd22bb60a82f748d32997fe4",
+  "thumbnail": "/uploads/thumbnails/thumbnail-1729441297947-532010180.png",
+  "uploadDate": {
+    "$date": "2025-05-26T07:54:47.001Z"
+  },
+  "__v": 0,
+  "premiumAmount": null
+},
+{
+  "_id": {
+    "$oid": "66cecef240b217910a69f367"
+  },
+  "title": "Title",
+  "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed.",
+  "message": "ok",
+  "messageDescription": "adsf",
+  "device": "Quest",
+  "videoMode": "180",
+  "videoFilePath": "uploads/videos/video-1724829419610-452137415.mp4.enc",
+  "videoOriginalName": "180_90Bit.mp4",
+  "videoFileSize": "2048 MB",
+  "trailer": "uploads/trailers/trailer-1748246086725-602631198.mp4",
+  "trailerOriginalName": "dhoni.mp4",
+  "isPremium": "false",
+  "secretKey": "1f3ca5c2943d038c361df67c33f545c8fc53e3412b403847198959c615833e67",
+  "iv": "cb2b6e83d71b80a196d066eb68c8f1d1",
+  "thumbnail": "/uploads/thumbnails/thumbnail-1729331835836-227152767.png",
+  "uploadDate": {
+    "$date": "2024-08-28T07:17:06.924Z"
+  },
+  "__v": 0,
+  "premiumAmount": null
+},
+{
+  "_id": {
+    "$oid": "66cecf6840b217910a69f36e"
+  },
+  "title": "Titlejj",
+  "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed.",
+  "message": "ok",
+  "messageDescription": "adsf",
+  "device": "Quest",
+  "videoMode": "Theatre",
+  "videoFilePath": "uploads/videos/video-1724829536996-510279165.mp4.enc",
+  "videoOriginalName": "Theater.mp4",
+  "videoFileSize": "2048 MB",
+  "trailer": "uploads/trailers/trailer-1748246086725-602631198.mp4",
+  "trailerOriginalName": "dhoni.mp4",
+  "isPremium": "false",
+  "secretKey": "89351b7f2912caad66dfe297c6b922a81b787120257cfd8d7ce65e684a127b1e",
+  "iv": "135b9678a9b8c23bcbfb80c13c5748cc",
+  "thumbnail": "/uploads/thumbnails/thumbnail-1729331886939-346552399.png",
+  "uploadDate": {
+    "$date": "2024-08-28T07:19:04.665Z"
+  },
+  "__v": 0,
+  "premiumAmount": null
+},
+{
+  "_id": {
+    "$oid": "66cecfdb40b217910a69f375"
+  },
+  "title": "Title",
+  "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed.",
+  "message": "ok",
+  "messageDescription": "adsf",
+  "device": "Quest",
+  "videoMode": "MR",
+  "videoFilePath": "uploads/videos/video-1724829652044-48902811.mp4.enc",
+  "videoOriginalName": "Theater.mp4",
+  "trailer": "uploads/trailers/trailer-1748246086725-602631198.mp4",
+  "trailerOriginalName": "dhoni.mp4",
+  "isPremium": "false",
+  "secretKey": "ca837188e52bb40b60aa4e5d0087fc83f7dcf0aba539ab154b0ea250ed72c791",
+  "iv": "b45bf2e2c59c46c507f1b2056773b2b6",
+  "thumbnail": "/uploads/thumbnails/thumbnail-1729331874535-358364275.png",
+  "uploadDate": {
+    "$date": "2024-08-28T07:20:59.856Z"
+  },
+  "__v": 0,
+  "premiumAmount": null
+}]
